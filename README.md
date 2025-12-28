@@ -11,6 +11,13 @@
 
 - 📫 How to reach me **Viswareddykarnati@gmail.com**
 
+- 💼 **INTERNSHIP: KOTAK MAHINDRA BANK** (Ongoing)
+  - Designed and implemented an RDS DDL automation pipeline to deploy SQL files into AWS RDS, improving database change management and reducing manual intervention.
+  - Configured AWS services (RDS, IAM, S3, Secrets Manager) to securely manage database credentials and streamline SQL script execution.
+  - Improved deployment efficiency and consistency, reducing risk of human errors in database migrations.
+  - Built a data migration pipeline to transfer data from higher environments to lower environments for testing before deployment.
+  - Developed an automated query termination pipeline that runs every 45 minutes to kill backend queries exceeding 45-minute runtime, preventing application downtime.
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/viswewara reddy karnati" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="viswewara reddy karnati" height="30" width="40" /></a>
