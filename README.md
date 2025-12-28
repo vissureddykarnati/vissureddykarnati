@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **PySpark,Airflow**
 
-- 📫 How to reach me **Viswareddykarnati@gmail.com**
+- 📫 How to reach me **Visweswara.reddy.karnati@gmail.com**
 
 - 💼 **INTERNSHIP: KOTAK MAHINDRA BANK** (Ongoing)
   - Designed and implemented an RDS DDL automation pipeline to deploy SQL files into AWS RDS, improving database change management and reducing manual intervention.
