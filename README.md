@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vissureddykarnati" alt="vissureddykarnati" /></a> </p>
 
-- 🔭 I’m currently working on **Sales Overview Analysis**
+- 🔭 I’m currently working on **Data-Engineering**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **PySpark,Airflow**
 
 - 📫 How to reach me **Viswareddykarnati@gmail.com**
 
